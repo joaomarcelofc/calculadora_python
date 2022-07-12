@@ -1,5 +1,5 @@
 from time import sleep
-print('******************** Python Calculator ******************** ')#verificar melhora
+print('******************** Python Calculator ******************** ')
 sleep(1)
 
 while True:
